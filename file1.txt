@@ -1,4 +1,8 @@
-Hello World
-Hello World in file1 using nano keyword
-We are in 1st Branch to edit file-1 (Edit-1)
-We are again in 1st Branch to edit file-1 (Edit-2)
+Hello World.
+We are in 3rd Branch
+We are murging this branch into main 
+We are again in 3rd branch
+We will once again merge this file into main file.
+We are in 1st Branch now, we have edited 1st branch code.
+Now we will merge this branch into main.
+Lets check if main modifies or not.
