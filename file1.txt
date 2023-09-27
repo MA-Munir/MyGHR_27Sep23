@@ -1,5 +1,4 @@
 Hello World
 Hello World in file1 using nano keyword
-We are in the 2nd Branch to edit File1. (Edit-1)
-We will now merge the 2nd_Branch with the main branch
-Lets do it
+We are going to merge this file into main file.
+Lets do it buddy.
